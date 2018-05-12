@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: sofa-rpc-demo
