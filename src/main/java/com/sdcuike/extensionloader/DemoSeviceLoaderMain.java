@@ -2,11 +2,13 @@ package com.sdcuike.extensionloader;
 
 import com.alipay.sofa.rpc.ext.ExtensionLoader;
 import com.alipay.sofa.rpc.ext.ExtensionLoaderFactory;
+import lombok.extern.slf4j.Slf4j;
 
 /**
  * @author sdcuike
  * @date 2018/5/12
  */
+@Slf4j
 public class DemoSeviceLoaderMain {
     public static void main(String[] args) {
 
